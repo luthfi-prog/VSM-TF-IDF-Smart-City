@@ -1,0 +1,44 @@
+{
+  "documents": [
+    {
+      "id": "D1",
+      "title": "IoT in Smart Transportation",
+      "content": "iot sensors collect traffic data for intelligent transportation management"
+    },
+    {
+      "id": "D2",
+      "title": "Smart Energy Optimization",
+      "content": "smart grid applies data analytics to improve energy distribution efficiency"
+    },
+    {
+      "id": "D3",
+      "title": "Public Safety Monitoring",
+      "content": "computer vision detects incidents in public areas using camera analytics"
+    },
+    {
+      "id": "D4",
+      "title": "Urban Air Quality Monitoring",
+      "content": "air quality sensors track pollution level and support sustainable city planning"
+    },
+    {
+      "id": "D5",
+      "title": "Smart Waste Management",
+      "content": "waste collection system uses sensor data to optimize route planning"
+    },
+    {
+      "id": "D6",
+      "title": "Smart Water Management",
+      "content": "water usage prediction model improves distribution and prevents leakage"
+    },
+    {
+      "id": "D7",
+      "title": "Citizen Engagement Platform",
+      "content": "mobile application enhances citizen engagement using information sharing features"
+    },
+    {
+      "id": "D8",
+      "title": "Intelligent Building System",
+      "content": "building automation uses iot devices to control energy usage efficiently"
+    }
+  ]
+}
