@@ -1,0 +1,14 @@
+{
+  "queries": [
+    {
+      "id": "Q1",
+      "query": "smart energy analytics",
+      "terms": ["smart", "energy", "analytics"]
+    },
+    {
+      "id": "Q2",
+      "query": "sensor data model",
+      "terms": ["sensor", "data", "model"]
+    }
+  ]
+}
